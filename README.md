@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=&color=#00539CFF=300&section=header&text=SoftUni-Courses&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=&color=_#00539CFF=300&section=header&text=SoftUni-Courses&fontSize=90" />
 
 <h2>Courses I've completed during my education at SoftUni</h2>
 
