@@ -25,7 +25,7 @@
  <details>
  <summary><h3>Javascript Applications Carriculum List</summary>
  
- 1. [**Labs**]()
+ 1. [**Labs**](https://github.com/Dilyan-Iliev/SoftUni-JavaScript/tree/main/Level%20Applications/Labs/Asynchronous%20Programming)
  2. [**Exercises**]()
  3. [**Exams**]()
  
