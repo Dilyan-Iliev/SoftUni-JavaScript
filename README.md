@@ -27,6 +27,6 @@
  
  1. [**Labs**](https://github.com/Dilyan-Iliev/SoftUni-JavaScript/tree/main/Level%20Applications/Labs/Asynchronous%20Programming)
  2. [**Exercises**](https://github.com/Dilyan-Iliev/SoftUni-JavaScript/tree/main/Level%20Applications/Exercises)
- 3. [**Exams**]()
+ 3. [**Exams**](https://github.com/Dilyan-Iliev/SoftUni-JavaScript/tree/main/Level%20Applications/Exams)
  
  </details>
