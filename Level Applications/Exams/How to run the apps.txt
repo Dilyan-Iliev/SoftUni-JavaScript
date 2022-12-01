@@ -2,6 +2,9 @@ Instructions about using the server from this apps:
 
 1)Open the server.js in the terminal with "node ./server.js" command
 2)Using the login:
- - there are couple of predifined users :
+ - The service is initialized with three users, which can be used for immediate testing:
 peter@abv.bg : 123456
 george@abv.bg : 123456
+admin@abv.bg : admin
+
+For further info, check here - https://github.com/softuni-practice-server/softuni-practice-server
