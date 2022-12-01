@@ -1,0 +1,7 @@
+Instructions about using the server from this apps:
+
+1)Open the server.js in the terminal with "node ./server.js" command
+2)Using the login:
+ - there are couple of predifined users :
+peter@abv.bg : 123456
+george@abv.bg : 123456
